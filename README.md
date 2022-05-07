@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me on discord
+- 📫 How to reach me: On discord
 
 <!---
 Hafskjold03/Hafskjold03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
